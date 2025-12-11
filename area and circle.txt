@@ -1,0 +1,13 @@
+#include <math.h>
+#include <stdio.h>
+#define PI 3.142
+double find Area(int r) { 
+ return PI * pow(r, 2); 
+}
+int main()
+{
+print f ("Area is %f", find Area(5));
+return 0;
+}
+ 
+ 
